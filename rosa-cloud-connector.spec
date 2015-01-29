@@ -1,5 +1,5 @@
 Name:		rosa-cloud-connector
-Version:	0.3
+Version:	0.3.1
 Release:	1
 Summary:	Connect to different cloud storage services
 License:	BSD
