@@ -19,7 +19,7 @@ A simple tool to connect to different cloud storage services.
 %build
 %qmake_qt5
 %make
-lrelease app/rosa_cloud_ru.ts
+%{_libdir}/qt5/bin/lrelease app/rosa_cloud_ru.ts
 
 %install
 mkdir -p %{buildroot}/%{_bindir}
